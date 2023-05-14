@@ -11,7 +11,8 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #444444;
+  color: #b29079;
+	background-color: #EFE7DA;
 }
 
 a {
@@ -1128,7 +1129,7 @@ section {
 # Team
 --------------------------------------------------------------*/
 .team {
-  background: #fff;
+  background: #efe7da;
   padding: 60px 0;
 }
 
@@ -1215,7 +1216,7 @@ section {
 --------------------------------------------------------------*/
 .contact .info {
   width: 100%;
-  background: #fff;
+  background: #efe7da;
 }
 
 .contact .info i {
@@ -1245,6 +1246,7 @@ section {
   margin-bottom: 0;
   font-size: 14px;
   color: #484848;
+	
 }
 
 .contact .info .email,
@@ -1254,7 +1256,7 @@ section {
 
 .contact .php-email-form {
   width: 100%;
-  background: #fff;
+  background: #efe7da;
 }
 
 .contact .php-email-form .form-group {
