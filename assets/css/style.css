@@ -31,6 +31,9 @@ h6 {
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
+.loom-companion-mv3{
+	padding: 0px;
+}
 .back-to-top {
   position: fixed;
   visibility: hidden;
