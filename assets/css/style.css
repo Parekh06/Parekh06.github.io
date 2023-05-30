@@ -34,6 +34,9 @@ h6 {
 .loom-companion-mv3{
 	padding: 0px;
 }
+.shadow-host-companion{
+	padding: 0px;
+}
 .back-to-top {
   position: fixed;
   visibility: hidden;
